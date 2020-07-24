@@ -1,0 +1,14 @@
+C:\Users\cagri\source\repos\vrmaker\bin\Debug\vrmaker.exe.config
+C:\Users\cagri\source\repos\vrmaker\bin\Debug\vrmaker.exe
+C:\Users\cagri\source\repos\vrmaker\bin\Debug\vrmaker.pdb
+C:\Users\cagri\source\repos\vrmaker\bin\Debug\vrmaker.xml
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.vbprojAssemblyReference.cache
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.Form1.resources
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.Form2.resources
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.Resources.resources
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.vbproj.GenerateResource.cache
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.exe
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.xml
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.pdb
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.Form3.resources
+C:\Users\cagri\source\repos\vrmaker\obj\Debug\vrmaker.Form4.resources
